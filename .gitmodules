@@ -1,3 +1,6 @@
 [submodule "Iris_DataSet_Visualization"]
 	path = Iris_DataSet_Visualization
 	url = https://github.com/uxman001/Iris_DataSet_Visualization.git
+[submodule "Stock_Price_Predictor"]
+	path = Stock_Price_Predictor
+	url = https://github.com/uxman001/Stock_Price_Predictor.git

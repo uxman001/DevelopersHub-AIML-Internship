@@ -4,3 +4,6 @@
 [submodule "Stock_Price_Predictor"]
 	path = Stock_Price_Predictor
 	url = https://github.com/uxman001/Stock_Price_Predictor.git
+[submodule "Heart_Disease_Prediction"]
+	path = Heart_Disease_Prediction
+	url = https://github.com/uxman001/Heart_Disease_Prediction.git

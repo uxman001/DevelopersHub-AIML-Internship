@@ -7,3 +7,6 @@
 [submodule "Heart_Disease_Prediction"]
 	path = Heart_Disease_Prediction
 	url = https://github.com/uxman001/Heart_Disease_Prediction.git
+[submodule "House_Price_Prediction"]
+	path = House_Price_Prediction
+	url = https://github.com/uxman001/House_Price_Prediction.git
